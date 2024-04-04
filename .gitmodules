@@ -1,6 +1,6 @@
 [submodule "Todo-SmartContract"]
 	path = Todo-SmartContract
-	url = git@github.com:Sakal05/ToDo-SmartContract.git
+	url = https://github.com/Sakal05/ToDo-SmartContract.git
 [submodule "Todo-dapp-frontend"]
 	path = Todo-dapp-frontend
-	url = git@github.com:Sakal05/Todo-Dapp-Frontend.git
+	url = https://github.com/Sakal05/Todo-Dapp-Frontend.git
