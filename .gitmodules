@@ -2,5 +2,5 @@
 	path = ToDo-SmartContract
 	url = https://github.com/Sakal05/ToDo-SmartContract.git
 [submodule "todo-dapp-frontend"]
-	path = todo-dapp-frontend
+	path = frontend-todo
 	url = https://github.com/Sakal05/Todo-Dapp-Frontend.git
